@@ -7,105 +7,105 @@
 
 ## A
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## B
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## C
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## D
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## E
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## F
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## G
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## H
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## I
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## J
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## K
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## L
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## M
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## N
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## O
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## P
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## Q
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## R
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## S
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## T
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## U
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## V
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## W
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## X
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## Y
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
 ## Z
 
-([Index](#index):arrow_heading_up:)
+([Index](#index) :arrow_heading_up:)
 
